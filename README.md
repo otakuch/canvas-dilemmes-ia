@@ -10,7 +10,7 @@ Canvas pédagogique interactif pour explorer et reframer les dilemmes éthiques 
 4. Sauvegarder vos réflexions
 
 ## 📱 Démo en ligne
-[Voir la démo](https://votre-username.github.io/canvas-dilemmes-ia/)
+[Voir la démo](https://otakuch.github.io/canvas-dilemmes-ia/)
 
 ## 🎨 Fonctionnalités
 - Interface responsive
